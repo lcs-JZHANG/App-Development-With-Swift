@@ -11,13 +11,13 @@ print("How to use playgrounds to make writing Swift fun and simple")
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
 print("My Name is Jesse Zhang")
-
+print("My favourite song is 'waiting for love' by Avicii")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("For every tyrant a tear for the vulnerable")
+print("In every lost soul the bones of a miracle")
+print("For every dreamer a dream we're unstoppable")
 /*:
 
  _Copyright © 2018 Apple Inc._
