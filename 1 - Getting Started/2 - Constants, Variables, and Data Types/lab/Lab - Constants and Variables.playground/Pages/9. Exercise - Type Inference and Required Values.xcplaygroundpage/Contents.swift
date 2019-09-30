@@ -3,12 +3,11 @@
  
  Declare a variable called `name` of type `String`, but do not give it a value. Print `name` to the console. Does the code compile? Remove any code that will not compile.
  */
-
-
+// it doesn't complie, "type annotation missing in pattern
 /*:
  Now assign a value to `name`, and print it to the console.
  */
-
+var name = "Jess"
 
 /*:
  Declare a variable called `distanceTraveled` and set it to 0. Do not give it an explicit type.
